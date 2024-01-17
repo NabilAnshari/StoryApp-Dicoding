@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Submission1_Appstory</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="signup">SIGN IN</string>
+    <string name="user">Nabil</string>
+    <string name="name">Nama</string>
+    <string name="signin">Sign Up</string>
+    <string name="akun">Belum memiliki akun?</string>
+    <string name="description">Deskripsi anda</string>
+    <string name="upload">UPLOAD</string>
+    <string name="Camera">Camera</string>
+    <string name="logout">logout</string>
+    <string name="galeri">Galeri</string>
+    <string name="maps">Map</string>
+    <string name="menu">Menu</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="not_found">Location missing</string>
+    <string name="lokasi">Your Location</string>
+
+
+</resources>
